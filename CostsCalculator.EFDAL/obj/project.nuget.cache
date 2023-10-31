@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "96euZ0WiGbTYiP/MaZbEwgKCnMmBNZjiVTMWUBwLl5RLO5s/ak6iwQ/lZ95lwGmPvMvCng8tN/WinIYaza9oKw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.EFDAL\\CostsCalculator.EFDAL.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.27.0.4/Nuget.Server/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
