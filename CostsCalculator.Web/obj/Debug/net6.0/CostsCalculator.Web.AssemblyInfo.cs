@@ -11,11 +11,15 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CostsCalculator.Web")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Sergio Yunsuk Lee")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute(@"
+			Costs Calculator is a user-friendly web app tailored to the specific needs of small startups and emerging businesses. 
+			It simplifies calculating manufacturing product costs, providing entrepeneurs with a clear and efficient way to make informed financial decisions!
+		")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CostsCalculator.Web")]
+[assembly: System.Reflection.AssemblyProductAttribute("Costs Calculator WEB")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CostsCalculator.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

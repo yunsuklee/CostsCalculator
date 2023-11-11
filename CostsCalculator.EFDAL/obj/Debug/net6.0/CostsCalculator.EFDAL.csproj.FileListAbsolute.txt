@@ -1,0 +1,11 @@
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\bin\Debug\net6.0\CostsCalculator.EFDAL.deps.json
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\bin\Debug\net6.0\CostsCalculator.EFDAL.dll
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\bin\Debug\net6.0\CostsCalculator.EFDAL.pdb
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\obj\Debug\net6.0\CostsCalculator.EFDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\obj\Debug\net6.0\CostsCalculator.EFDAL.AssemblyInfoInputs.cache
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\obj\Debug\net6.0\CostsCalculator.EFDAL.AssemblyInfo.cs
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\obj\Debug\net6.0\CostsCalculator.EFDAL.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\obj\Debug\net6.0\CostsCalculator.EFDAL.dll
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\obj\Debug\net6.0\refint\CostsCalculator.EFDAL.dll
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\obj\Debug\net6.0\CostsCalculator.EFDAL.pdb
+C:\Users\Sergio\Local\Learning\projects\CostsCalculator\CostsCalculator.EFDAL\obj\Debug\net6.0\ref\CostsCalculator.EFDAL.dll

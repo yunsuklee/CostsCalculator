@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+		<RootNamespace>CostsCalculator</RootNamespace>
+		<OutputType>Exe</OutputType>
+		<LangVersion>latest</LangVersion>
+		<Nullable>enable</Nullable>
+		<ImplicitUsings>enable</ImplicitUsings>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<Version>1.0.0</Version>
+		<Authors>Sergio Yunsuk Lee</Authors>
+		<Product>Costs Calculator API</Product>
+		<Description>
+			Costs Calculator is a user-friendly web app tailored to the specific needs of small startups and emerging businesses.
+			It simplifies calculating manufacturing product costs, providing entrepeneurs with a clear and efficient way to make informed financial decisions!
+		</Description>
+		<PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+		<PackageProjectUrl>https://github.com/yunsuklee/CostsCalculator</PackageProjectUrl>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+	</ItemGroup>
+
+</Project>

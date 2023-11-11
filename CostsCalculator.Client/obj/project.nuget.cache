@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dFxlveJrH7vS4prbIaj1HT/rCLqfz/AQ5la8LUhAKh3CUPL+pIJoNy+0nmLeN1oqNGDWnAdGnJr3VS+6sUEn9w==",
+  "dgSpecHash": "muPZKCAaGaVCopPY3l2teV5hRpKSG3748NmHPZZSmU6hk/CEGCcx0EFolY3N387dsW8ZZwVF9p861k/NfaXvuQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.Client\\CostsCalculator.Client.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1803",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.27.0.4/Nuget.Server/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
-    }
-  ]
+  "logs": []
 }
