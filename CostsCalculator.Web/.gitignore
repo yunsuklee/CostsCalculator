@@ -1,0 +1,7 @@
+# Ignore compiled files
+*.dll
+*.exe
+
+# Ignore user-specific files
+*.sso
+*.ora

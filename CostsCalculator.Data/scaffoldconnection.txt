@@ -1,0 +1,15 @@
+Descargar paquetes:
+Oracle.EntityFrameworkCore
+Oracle.ManagedDataAccess.Core
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.Tools
+Microsoft.Extensions.Configuration.FileExtensions
+
+Herramientas > Paquetes Nuget > Consola > Elegir proyecto DATA
+
+Scaffold-DbContext "User Id=ADMIN;Password=&|s*ckHd51.`$zb0:fJB$;Data Source=(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.eu-paris-1.oraclecloud.com))(connect_data=(service_name=g429f0287593741_costscalculator_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)));Connection Timeout=30;" Oracle.EntityFrameworkCore -UseDatabaseNames -NoPluralize -f
+
+En caso de que la password tenga un caracter especial y no lo admita, escaparlo con `
+
+dotnet ef dbcontext scaffold "Data Source=(description= (retry_count=20)(retry_delay=3)(address=(protocol=tcps)(port=1522)(host=adb.eu-paris-1.oraclecloud.com))(connect_data=(service_name=g429f0287593741_costscalculator_high.adb.oraclecloud.com))(security=(ssl_server_dn_match=yes)));User Id=ADMIN;Password=&|s*ckHd51.$zb0:fJB$" Oracle.EntityFrameworkCore

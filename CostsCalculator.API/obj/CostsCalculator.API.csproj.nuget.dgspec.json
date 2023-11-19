@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.Host\\CostsCalculator.API.csproj": {}
+    "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.API\\CostsCalculator.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.Host\\CostsCalculator.API.csproj": {
+    "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.API\\CostsCalculator.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.Host\\CostsCalculator.API.csproj",
+        "projectUniqueName": "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.API\\CostsCalculator.API.csproj",
         "projectName": "CostsCalculator.API",
-        "projectPath": "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.Host\\CostsCalculator.API.csproj",
+        "projectPath": "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.API\\CostsCalculator.API.csproj",
         "packagesPath": "C:\\Users\\Sergio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.Host\\obj\\",
+        "outputPath": "C:\\Users\\Sergio\\Local\\Learning\\projects\\CostsCalculator\\CostsCalculator.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
